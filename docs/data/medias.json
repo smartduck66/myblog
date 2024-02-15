@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-10-25",
+        "titre": "Intervention à une table ronde de la 14ème édition du congrès des Représentants des Usagers (RU), organisé par la Fédération de l'Hospitalisation Privée (FHP)",
+        "type": "Article",
+        "url": "https://www.better-world.io/articles/le-congres-des-representants-des-usagers-ru-organise-par-la-fhp"
+    },
+    {
+        "date": "2022-04-08",
+        "titre": "Les 5 ans de CACD2",
+        "type": "Podcast",
+        "url": "https://soundcloud.com/lamanufacturecacd2/episode6-andretonic-2022"
+    },
+    {
+        "date": "2021-03-16",
+        "titre": "L'impact de la digitalisation depuis la crise sanitaire",
+        "type": "Podcast",
+        "url": "https://soundcloud.com/lamanufacturecacd2/podcast1-andre-tonic"
+    },
+    {
+        "date": "2017-09-01",
+        "titre": "Lancement de la Manufacture Digitale du Crédit Agricole [CACD2]",
+        "type": "Vidéo",
+        "url": "https://youtu.be/zQiQn27_5jY"
+    },
+    {
+        "date": "2007-07-24",
+        "titre": "L’IPTV 2.0 deviendra-t-elle réalité grâce au Très Haut Débit ?",
+        "type": "Article",
+        "url": "https://www.journaldunet.com/ebusiness/telecoms-fai/1033001-l-iptv-2-0-deviendra-t-elle-realite-grace-au-tres-haut-debit/"
+    },
+    {
+        "date": "2007-04-06",
+        "titre": "Télévision mobile personnelle : au delà du miroir...",
+        "type": "Article",
+        "url": "https://www.journaldunet.com/ebusiness/telecoms-fai/1033010-television-mobile-personnelle-au-dela-du-miroir/"
+    }
+]
