@@ -6,7 +6,7 @@ export default defineConfig({
   lang: "fr-FR",
   description: "Blog de André Tonic",
   head: [
-    ["script", { src: "https://www.googletagmanager.com/gtag/js?id=G-MN366W1XX4" }],
+    ["script", { async: '', src: "https://www.googletagmanager.com/gtag/js?id=G-MN366W1XX4" }],
     [
       "script",
       {},
