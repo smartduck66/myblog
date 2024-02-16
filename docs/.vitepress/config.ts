@@ -44,7 +44,7 @@ export default defineConfig({
 
     
 
-    socialLinks: [{ icon: "linkedin", link: "https://www.linkedin.com/in/atonic/" }],
+    socialLinks: [{ icon: "linkedin", link: "https://www.linkedin.com/in/atonic/" },{ icon: 'github', link: 'https://github.com/smartduck66/myblog' }],
 
     footer: {
       message: `Site généré avec VitePress - Hébergé @Netlify <br> Visitez <a href="https://www.fa2v.fr">fa2v.fr</a>`,
