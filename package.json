@@ -9,7 +9,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "sass": "^1.70.0",
+    "sass": "^1.71.0",
     "sharp": "^0.33.2"
   },
   "devDependencies": {
