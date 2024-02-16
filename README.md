@@ -1,7 +1,8 @@
-# Ce blog personnel (www.andretonic.fr) s'appuie sur vitepress
+# Ce blog personnel (www.andretonic.fr) s'appuie sur Vitepress
+# Le thème par défaut est utilisé, sans personnalisation d'un layout
 
 # Derniers travaux :
-17/11/2022 : initialisation (https://vitepress.vuejs.org/)
+17/11/2022 : initialisation (https://vitepress.dev/)
 18/11/2022 : installation d'un plugin complémentaire pour faciliter la mise en place du blog (vitepress-blog-util)
 20/11/2022 : formulaire de contact
 19/12/2022 : mise en ligne - add GA 4 - https://github.com/vuejs/vitepress/issues/1131
