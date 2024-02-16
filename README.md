@@ -40,7 +40,7 @@ Pour construire le site statique (->dist) qui sera publié sur Netlify :
 - git add -A
 - git commit -m "new fonctions"
 - git push
-- Netlify le publie automatiquement en production sur https://splendid-chaja-18242c.netlify.app/
+- Netlify le publie automatiquement en production sur https://glittery-froyo-469226.netlify.app/
 - Plugins sitemap/submit sitemap installés sous netlify pour générer automatiquement, à chaque build, sitemap.xml (puis diffuser automatiquement à Google & yandex)
 
 Caractères accentués avec le pavé numérique :
