@@ -7,9 +7,9 @@
         "url": "https://kiko.andretonic.fr"
     },
     {
-        "date": "2024-02-03",
+        "date": "2024-02-11",
         "titre": "WebCheck'CAC40",
-        "teaser":"Découvrez les mesures régulières effectuées sur les sites institutionnels des sociétés du CAC40, via l'utilisation de l'API Google Lighthouse facilitée par les travaux de Zach Leatherman (speedlify).",
+        "teaser":"Découvrez les mesures régulières effectuées sur les sites institutionnels des sociétés du CAC40, via l'utilisation de l'API Google Lighthouse.",
         "technos": "Vue.js",
         "url": "https://webcheckcac40.andretonic.fr"
     },
