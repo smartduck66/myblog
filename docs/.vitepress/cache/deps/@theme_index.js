@@ -14,6 +14,7 @@ import "C:/Users/andre/source/_web/myblog/node_modules/vitepress/dist/client/the
 // node_modules/vitepress/dist/client/theme-default/without-fonts.js
 import "C:/Users/andre/source/_web/myblog/node_modules/vitepress/dist/client/theme-default/styles/vars.css";
 import "C:/Users/andre/source/_web/myblog/node_modules/vitepress/dist/client/theme-default/styles/base.css";
+import "C:/Users/andre/source/_web/myblog/node_modules/vitepress/dist/client/theme-default/styles/icons.css";
 import "C:/Users/andre/source/_web/myblog/node_modules/vitepress/dist/client/theme-default/styles/utils.css";
 import "C:/Users/andre/source/_web/myblog/node_modules/vitepress/dist/client/theme-default/styles/components/custom-block.css";
 import "C:/Users/andre/source/_web/myblog/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code.css";
