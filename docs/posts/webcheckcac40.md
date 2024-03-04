@@ -145,7 +145,17 @@ Et la suite, me direz-vous ? Je souhaite améliorer WebCheck'CAC40 tout au long 
 
 
 Retrouvez tous mes projets personnels, ainsi que WebCheck'CAC40, dans cette [section] de mon blog.
+<br><br>
 
+::: tip Mise à jour du 1er mars
+J'ai décidé de publier WebCheck'CAC40 en Open Source, licence MIT, pour trois raisons principales :
+
+- Cet outil de mesure des indicateurs Lighthouse des sites institutionnels du CAC40 est dorénavant suffisamment stable pour être diffusé
+- Etant principalement construit autour de modules Open Source, il est normal de le partager avec la Communauté
+- J'espère que cela poussera de nombreux développeurs à auditer plus systématiquement les sites qu'ils construisent, en constatant la simplicité d'implémentation de l'API Google Lighthouse
+
+:::
+<br><br>
 
 [> Accueil](/) [> Tous les articles](/articles)
 

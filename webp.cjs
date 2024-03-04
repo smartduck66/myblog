@@ -1,5 +1,5 @@
 // Inspiration : https://sharp.pixelplumbing.com/
-// Utilisation : node webp.js
+// Utilisation : node webp.cjs
 
 const sharp = require("sharp");
 const fs = require("fs");
