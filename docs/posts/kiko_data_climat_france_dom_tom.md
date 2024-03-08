@@ -59,6 +59,12 @@ Comme je l'ai antérieurement énoncé, Kikō est un *démonstrateur* encore tr�
 
 Si ce projet vous intéresse, n'hésitez pas à me [contacter] pour échanger :sunrise_over_mountains:
 
+::: tip Mise à jour du 8 mars 2024
+J'ai décidé de publier Kikō en Open Source, licence MIT, dans la foulée de WebCheck'CAC40. J'espère qu'il inspirera également plein de développeurs :wink:
+
+:::
+<br><br>
+
 [side project]: /posts/pourquoi_c_plus_plus.md
 [Météo France]: https://donneespubliques.meteofrance.fr
 [valeur foncière]: https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres
