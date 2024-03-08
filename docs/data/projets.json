@@ -1,6 +1,6 @@
 [
     {
-        "date": "2023-12-30",
+        "date": "2024-03-08",
         "titre": "Kikō",
         "teaser":"Cet outil permet de visualiser une sélection de données climatiques et environnementales, issues de l'open data : température moyenne, température minimale, température maximale, ensoleillement, précipitations, rafales de vent, distance de la centrale nucléaire la plus proche, prix moyen au m2 des maisons. Les valeurs annuelles affichées sont, à date, moyennées sur la période 1991-2020 (hors records climatiques).",
         "technos": "Vue.js",
