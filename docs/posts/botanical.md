@@ -14,7 +14,7 @@ archive: false
 
 ![IMG](/assets/img/image_accueil_botanicalparis.webp "Botanicalparis.com")
 <br><br>
-En septembre 2022, je déjeunais avec un entrepreneur qui me faisait part des problèmes de performance qu'il rencontrait avec certains de ces sites Web. Il en avait en effet développé plusieurs, sous Wordpress. Personnellement, je ne connaissais pas particulièrement ce CMS mais je lui ai proposé de vérifier ce que [Lighthouse] délivrait comme indicateurs sur l'un de ses sites dédié à la réservation d'ateliers de dégustation de spiritueux, [botanicalparis.com]. Je me rappelle que la performance était par exemple **inférieure à 50 sur 100**. Après quelques heures de recherche, des plugins remis à jour ou supprimés, l'indicateur reprenait des couleurs et je parvenais *peu ou prou* à ce résultat :
+En septembre 2022, je déjeunais avec un entrepreneur qui me faisait part des problèmes de performance qu'il rencontrait avec certains de ses sites Web. Il en avait en effet développé plusieurs, sous Wordpress. Personnellement, je ne connaissais pas particulièrement ce CMS mais je lui ai proposé de vérifier ce que [Lighthouse] délivrait comme indicateurs sur l'un de ses sites dédié à la réservation d'ateliers de dégustation de spiritueux, [botanicalparis.com]. Je me rappelle que la performance était par exemple **inférieure à 50 sur 100**. Après quelques heures de recherche, des plugins remis à jour ou supprimés, l'indicateur reprenait des couleurs et je parvenais *peu ou prou* à ce résultat :
 <br>
 
 ![IMG](/assets/img/Botanical_Lighthouse_original.webp "Lighthouse")
