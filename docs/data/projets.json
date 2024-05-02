@@ -14,9 +14,9 @@
         "url": "https://webcheckcac40.andretonic.fr"
     },
     {
-        "date": "2023-02-28",
+        "date": "2024-05-03",
         "titre": "Botanicalparis.com",
-        "teaser":"Ce démonstrateur technique a été développé pour démontrer la performance du framework vue.js versus WordPress, sur les indicateurs Lighthouse de Google. Des messages d'erreur peuvent apparaître au lancement du site car planetscale, hébergeur de la base de données sous-jacente, met en sommeil toute BD inactive depuis 7 jours.",
+        "teaser":"Ce démonstrateur technique a été développé pour démontrer la performance du framework vue.js versus WordPress, sur les indicateurs Lighthouse de Google.",
         "technos": "Vue.js",
         "url": "https://jazzy-florentine-dc0c2d.netlify.app/"
     },

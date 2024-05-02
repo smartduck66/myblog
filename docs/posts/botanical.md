@@ -191,6 +191,9 @@ Maintenant, je suis persuadé que des experts CMS sont capables d'optimiser les 
 
 Retrouvez tous mes projets personnels, ainsi que ce POC, dans cette [section] de mon blog.
 
+::: tip Mise à jour du 3 mai 2024
+Planetscale ayant décidé de supprimer son *hobby plan*, j'ai décidé de migrer la base de données du projet vers [Turso]. Le portage a pris une journée, le temps de comprendre le fonctionnement de cette offre basée sur SQLite et non MySQL, et de refaire des tests complets.
+
 
 [> Accueil](/) [> Tous les articles](/articles)
 
@@ -201,6 +204,7 @@ Retrouvez tous mes projets personnels, ainsi que ce POC, dans cette [section] de
 [auth0]: https://auth0.com/
 [kiko]: /posts/kiko_data_climat_france_dom_tom.md
 [planetscale]: https://planetscale.com/
+[Turso]: https://turso.tech/
 [syntax.fm]: https://syntax.fm/
 [#usingtheplaform]: https://timkadlec.com/remembers/2019-10-21-using-the-platform/
 [Richard]: https://github.com/richardevcom
