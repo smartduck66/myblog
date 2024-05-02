@@ -193,7 +193,8 @@ Retrouvez tous mes projets personnels, ainsi que ce POC, dans cette [section] de
 
 ::: tip Mise à jour du 3 mai 2024
 Planetscale ayant décidé de supprimer son *hobby plan*, j'ai décidé de migrer la base de données du projet vers [Turso]. Le portage a pris une journée, le temps de comprendre le fonctionnement de cette offre basée sur SQLite et non MySQL, et de refaire des tests complets.
-
+:::
+<br><br>
 
 [> Accueil](/) [> Tous les articles](/articles)
 
