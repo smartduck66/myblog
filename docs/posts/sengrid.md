@@ -163,7 +163,7 @@ exports.handler = async (event, context) => {
   }
 }
 ```
-Ces quelques exemples vous permettront de constater la simplicité d'utilisation de Sendgrid. Très sincèrement, **un couple d'heures** m'a été nécessaire pour intégrer le service, ce qui m'a agréablement surpris. Pour aller plus loin, je vous conseille la lecture de la section [Developers] de leur site.
+Ces quelques exemples vous permettront de constater la simplicité d'utilisation de Sendgrid. Très sincèrement, **un couple d'heures** a été nécessaire pour intégrer le service, ce qui m'a agréablement surpris. Pour aller plus loin, je vous conseille la lecture de la section [Developers] de leur site.
 
 
 ### Tarification
