@@ -1,20 +1,20 @@
 [
     {
-        "date": "2024-03-08",
+        "date": "2024-09-03",
         "titre": "Kikō",
         "teaser":"Cet outil permet de visualiser une sélection de données climatiques et environnementales, issues de l'open data : température moyenne, température minimale, température maximale, ensoleillement, précipitations, rafales de vent, distance de la centrale nucléaire la plus proche, prix moyen au m2 des maisons. Les valeurs annuelles affichées sont, à date, moyennées sur la période 1991-2020 (hors records climatiques).",
         "technos": "Vue.js",
         "url": "https://kiko.andretonic.fr"
     },
     {
-        "date": "2024-02-11",
+        "date": "2024-09-09",
         "titre": "WebCheck'CAC40",
         "teaser":"Découvrez les mesures régulières effectuées sur les sites institutionnels des sociétés du CAC40, via l'utilisation de l'API Google Lighthouse.",
         "technos": "Vue.js",
         "url": "https://webcheckcac40.andretonic.fr"
     },
     {
-        "date": "2024-05-03",
+        "date": "2024-05-04",
         "titre": "Botanicalparis.com",
         "teaser":"Ce démonstrateur technique a été développé pour démontrer la performance du framework vue.js versus WordPress, sur les indicateurs Lighthouse de Google.",
         "technos": "Vue.js",
