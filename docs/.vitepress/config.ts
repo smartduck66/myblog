@@ -50,5 +50,10 @@ export default defineConfig({
       message: `Site généré avec VitePress - Hébergé @Netlify <br> Visitez <a href="https://www.fa2v.fr">fa2v.fr</a>`,
       copyright: "© André Tonic 2020 - Présent",
     },
+
+    docFooter: {
+      next: 'Page suivante', // Libellé pour la page suivante
+      prev: 'Page précédente', // Libellé pour la page précédente
+    },
   }
 })
