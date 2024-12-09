@@ -173,6 +173,15 @@ Une fois vos premiers messages envoyés via l'API, vous aurez la satisfaction de
 <br><br>
 ![IMG](/assets/img/sendgrid_dashboard.webp "Sendgrid dashboard")
 <br><br>
+::: tip Retour d'expérience après la première campagne de mails Pour Pharaon Magazine
+J'ai testé en conditions réelles l'envoi de près de 3.400 mails le 2 décembre... et constaté que  l'envoi **massif** était plus complexe que prévu :
+- Premièrement, l'API Sendgrid vous limite à **1.000 mails / envoi** : il vous faut donc créer des lots
+- Deuxièmement, certains fournisseurs comme Yahoo! ou AOL **retardent la délivrance** de vos mails si vous en envoyez trop "d'un seul coup" (*throlling*) : l'astuce est alors d'espacer de quelques secondes l'envoi des lots de mails
+- Troisièmement, le 1er plan Sendgrid ne vous fait pas bénéficier d'une adresse IP dédiée d'envois mais **d'un pool d'adresses** dont la crédibilité dépend également des autres prescripteurs qui, comme vous, envoient des mails "plus ou moins bien"
+- Enfin, une base de mails contenant trop de faux e-mails (en l'espèce, 15% de la base était sujette à caution) dégrade votre réputation et peut vous faire considérer comme un *spammeur*
+
+Vous devez donc prévoir une phase de *tuning* et suivre durant plusieurs jours le tableau d'activité de Sendgrid.
+:::
 [> Accueil](/) [> Tous les articles](/articles)
 
 [Cloudinary]: /posts/cloudinary.md
