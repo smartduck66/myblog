@@ -1,6 +1,6 @@
 ---
 title: Pourquoi utiliser Cloudinary ?
-date: 2024-09-02
+date: 2024-08-31
 category:
   - outils
 tag:
