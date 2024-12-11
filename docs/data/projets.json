@@ -2,7 +2,7 @@
     {
         "date": "2024-12-01",
         "titre": "Pharaon",
-        "teaser":"Une refonte totale du site Web 'Pharaon Magazine' développé en Drupal au début des années 2010. Le front s'articule autour de Vue.js, Vue-router, des composants UI PrimeVue, Pinia ou encore VeeValidate/Yup ; le back, en mode serverless, utilise Turso, Sendgrid, Cloudinary ou encore Auth0.",
+        "teaser":"Une refonte totale du site Web 'Pharaon Magazine' développé en Drupal au début des années 2010. Le front s'articule dorévanant autour de Vue.js, Vue-router, des composants UI PrimeVue, Pinia ou encore VeeValidate/Yup ; le back, en mode serverless, utilise Turso, Sendgrid, Cloudinary et Auth0.",
         "technos": "Vue.js",
         "url": "https://www.pharaon-magazine.fr"
     },
