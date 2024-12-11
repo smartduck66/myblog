@@ -14,9 +14,9 @@
         "url": "https://kiko.andretonic.fr"
     },
     {
-        "date": "2024-09-09",
+        "date": "2024-12-31",
         "titre": "WebCheck'CAC40",
-        "teaser":"Découvrez les mesures régulières effectuées sur les sites institutionnels des sociétés du CAC40, via l'utilisation de l'API Google Lighthouse.",
+        "teaser":"Découvrez les mesures effectuées tout au long de l'année 2024 sur les sites institutionnels des sociétés du CAC40, via l'utilisation de l'API Google Lighthouse.",
         "technos": "Vue.js",
         "url": "https://webcheckcac40.andretonic.fr"
     },
