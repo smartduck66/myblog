@@ -20,6 +20,8 @@ A l'instar de mon apprentissage initial des technologies Web, j'ai opté pour ac
 <br><br>
 Je parle de (re-)découverte car j'ai utilisé la technologie *ASP* (Active Server Pages) en 1997 avec Internet Information Services (IIS) 3.0 sous Windows NT 4.0. ASP était l'une des premières solutions de développement web dynamique côté serveur, utilisant VBScript ou JScript pour générer du contenu HTML de manière interactive. Cette technologie a ensuite évolué en **ASP.NET**, introduite en 2002 avec le .NET Framework.
 <br><br>
+Explorer les arcanes d'un nouveau langage et de ses librairies, comprendre la façon dont il peut répondre à un besoin donné, comparer sa *toolchain* avec d'autres outils précédemment utilisés sont autant de richesses qui ne demandent qu'à être récoltées. Oui, cela demande du temps, parfois même beaucoup de temps, mais la récompense ne serait-ce qu'intellectuelle **est à la mesure** de votre investissement.
+<br><br>
 Je vous ferai part de mes avancées au cours des prochains mois qui promettent d'être particulièrement studieux. Comme d'habitude, je vais en profiter pour concevoir une nouvelle application, utilisant cette fois **C#, .NET et Microsoft Azure**.
 <br><br>
 A très vite !
