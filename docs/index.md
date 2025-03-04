@@ -30,7 +30,7 @@ features:
     details: Les meilleures choses ayant une fin, je vous livre mon ultime billet sur l'évaluation des performances de la page d'accueil des sites Web de l'indice CAC 40.  
   - title: 11/2024 - VeeValidate
     link: /posts/vee_validate.md
-    details: Envoyer des mails est une fonctionnalité essentielle pour un site Web. En tant que développeur, de nombreuses solutions existent et je vais en évoquer une que j'ai choisie dans le cadre de la refonte d'un site Web pour un journal spécialisé.  
+    details: La saisie de formulaires est un grand classique quand l'on développe un site Web. C'est en effet l'un des moyens les plus courants pour interagir avec l'internaute. Voici un exemple que j'ai récemment mis en place pour Pharaon Magazine.  
   - title: 09/2024 - Sendgrid
     link: /posts/sendgrid.md
     details: Envoyer des mails est une fonctionnalité essentielle pour un site Web. En tant que développeur, de nombreuses solutions existent et je vais en évoquer une que j'ai choisie dans le cadre de la refonte d'un site Web pour un journal spécialisé.  
