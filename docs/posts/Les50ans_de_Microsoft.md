@@ -20,7 +20,7 @@ En effet, un véritable BASIC en ROM était fourni avec le Canon, ce qui ouvrait
 
 ![IMG](/assets/img/Screen_Canon_X-07.webp "Ecran du Canon X-07")
 
-Ensuite, après l'achat d'un premier "vrai" micro-ordinateur, en l'occurence un Apple Macintosh 512k en avril 1985, j'ai véritablement découvert MS-DOS puis GW-BASIC en 1986, avant de passer à PDS 7 et Visual Basic au début des années 1990. Ce langage a toujours eu des utilisateurs passionnés et des détracteurs (ah, le fameux "GOTO" :smile:) mais, une chose est sûre, il a permis à nombre de débutants d'apprendre à coder à l'aube de la micro-informatique.
+Ensuite, après l'achat d'un premier "vrai" micro-ordinateur, en l'occurrence un Apple Macintosh 512k en avril 1985, j'ai véritablement découvert MS-DOS puis GW-BASIC en 1986 sur un premier PC, avant de passer à PDS 7 et Visual Basic au début des années 1990. Ce langage a toujours eu des utilisateurs passionnés et des détracteurs (ah, le fameux "GOTO" :smile:) mais, une chose est sûre, il a permis à nombre de débutants d'apprendre à coder à l'aube de la micro-informatique.
 <br><br>
 Ce fameux BASIC, qui a été à la génèse de Microsoft, a été co-écrit par Bill Gates, Paul Allen et Marc Davidoff en 1975. Le langage avait été inventé onze ans auparavant par deux professeurs du *Dartmouth College*, mais véritablement popularisé par Microsoft. A l'occasion de la sortie de son nouveau livre ("Source code"), Bill Gates résume ce moment historique sur son [blog]. Vous pouvez même y télécharger le code source, en assembleur, de cette première version (157 pages de listing, tout de même !).
 <br><br>
