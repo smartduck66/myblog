@@ -2,7 +2,7 @@
 title: Microsoft a 50 ans cette année !
 date: 2025-04-15
 category:
-  - acteurs de l'informatique
+  - Acteurs de l'informatique
 tag:
   - Microsoft
 archive: false
