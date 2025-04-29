@@ -6,7 +6,7 @@ Pour formater un document rapidement via l'extension prettier, la commande de to
 Pour mettre à jour les modules NPM (npm uninstall 'module' pour la désinstallation) :
 - npm install npm@latest -g (dernière version NPM)
 - npm -g upgrade typescript (update typescript)
-- npx npm-check-updates -u (vérification des modules à migrer)
+- npx npm-check-updates (vérification des modules à migrer SANS les mettre à jour)
 - npm install (migration)
 - npm list vue (check dernière version de vue, par exemple)
 
