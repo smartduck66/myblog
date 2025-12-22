@@ -6,7 +6,7 @@
 - 18/11/2022 : installation d'un plugin complémentaire pour faciliter la mise en place du blog (vitepress-blog-util)
 - 20/11/2022 : formulaire de contact
 - 19/12/2022 : mise en ligne - add GA 4 - https://github.com/vuejs/vitepress/issues/1131
-- 15/02/2024 : mise à jour technique (suppression de yarn, passage à npm, suppression de vitepress-blog-util)
+- 15/02/2024 : mise à jour technique (suppression de yarn, passage à npm, suppression de vitepress-blog-util.)
 
 ---
 
